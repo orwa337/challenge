@@ -1,0 +1,46 @@
+hard chalenge
+http://cileria.com/advanced_tasks.txt
+
+Advanced Task:
+
+(1) Prime numbers
+
+Define a function isPrime(p) with one parameter p.
+This functions returns true if p is a prime number
+or false if that number is not. A number N
+is a prime number if it is only divisible by 1 or N.
+
+Hint: Include for-loops and mod();
+
+(2) Good morning
+
+Write a function that salutes you based on the time
+of the day. I.e. "Good Morning", "Good Noon", "Good Afternoon" or "Good Evening". 
+
+(3) IP-Checker with JQuery
+
+Create a basic website with a textbox, a button and a div. When the
+user clicks the button, an JQuery AJAX Get request will be sent to
+http://freegeoip.net/json/$IPADDRESS and you have to replace
+$IPADDRESS with an IP address from your textbox. Print out
+the country_name and city in the div.
+
+Example: Take a look at: http://freegeoip.net/json/74.125.225.231
+Hints: Use JQuery, $ajax.get() and JSON.parse();
+
+(4) Recursive Fibonacci 
+
+Write a function fibonacci(n) that recursively computes the 
+fibonacci of n.
+
+(5) Reverse String
+
+Write a function reverse(s) that return the reverse string of s.
+Example: reverse('hallo welt') would return 'tlew ollah'.
+
+(6) Reverse Words
+
+Write a function reverseWords(s) that returns a string in which the
+words are in reverse order.
+
+Example: reverseWords('hallo welt') would return 'welt hallo';
